@@ -67,7 +67,7 @@ export default class Modules extends Component {
                                             <FiMoreHorizontal className='' style={{ fontSize: '25px' }} />
                                         </div>
                                         <div className="">
-                                            <p className='d-inline pr-5 mr-5'> <MdAccessTime /> <span className='time'>Due Aug 8</span> </p>
+                                            <p className='d-inline pr-5 mr-5'> <MdAccessTime /> <span className='time vtn'>Due Aug 8</span> </p>
                                             <img src={Group} alt="group" className='img-fluid' />
                                         </div>
                                     </div>
@@ -82,7 +82,7 @@ export default class Modules extends Component {
                                         <FiMoreHorizontal className='' style={{ fontSize: '25px' }} />
                                     </div>
                                     <div className="">
-                                        <p className='d-inline pr-5 mr-5'> <MdAccessTime /> <span className='time'>Due Aug 8</span> </p>
+                                        <p className='d-inline pr-5 mr-5'> <MdAccessTime /> <span className='time vtn'>Due Aug 8</span> </p>
                                         <img src={Group} alt="group" className='img-fluid' />
                                     </div>
                                 </div>
@@ -94,7 +94,7 @@ export default class Modules extends Component {
                                         <FiMoreHorizontal className='' style={{ fontSize: '25px' }} />
                                     </div>
                                     <div className="">
-                                        <p className='d-inline pr-5 mr-5'> <MdAccessTime /> <span className='time'>Due Aug 8</span> </p>
+                                        <p className='d-inline pr-5 mr-5'> <MdAccessTime /> <span className='time vtn'>Due Aug 8</span> </p>
                                         <img src={Group} alt="group" className='img-fluid' />
                                     </div>
                                 </div>

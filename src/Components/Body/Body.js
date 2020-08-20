@@ -8,14 +8,16 @@ import Modules from '../../Pages/Modules';
 import Test from '../../Pages/Test';
 
 // IMPORTING FROM REACT ROUTER DOM
-import { Route } from 'react-router-dom';
+import { Switch, Route } from 'react-router-dom';
 
 export default class Body extends Component {
     render() {
         return (
             <div className='body-bg'>
-                <Route exact path='/' component={Modules} />
-                <Route exact path='/test' component={Test} />
+                <Switch>
+                    <Route exact path='/' component={Modules} />
+                    <Route exact path='/test' component={Test} />
+                </Switch>
             </div>
         )
     }

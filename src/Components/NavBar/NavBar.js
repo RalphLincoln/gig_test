@@ -21,7 +21,7 @@ const NavBar = () => {
                 <div className="col-12 my-auto col-md-1">
                     <li className="nav-item list-unstyled dropdown">
                         <a className="nav-link text-dark pt-0" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            <GrTextAlignLeft className='' style={{ fontSize: '25px' }} />
+                            <GrTextAlignLeft className='d-none d-md-block' style={{ fontSize: '25px' }} />
                         </a>
                         <div className="dropdown-menu" aria-labelledby="navbarDropdown">
                             <a className="dropdown-item" href="#">Action</a>

@@ -22,7 +22,7 @@ export default class Test extends Component {
                     <div className="row">
                         <div className="col-md-3">
                             <div className="d-flex justify-content-between">
-                                <p className='font-weight-bold heady'>Backlog</p>
+                                <p className='font-weight-bold heady'>Modules</p>
                                 <FiMoreHorizontal className='pt-1' style={{ fontSize: '25px' }} />
                             </div>
 
@@ -33,7 +33,7 @@ export default class Test extends Component {
                                         <FiMoreHorizontal className='' style={{ fontSize: '25px' }} />
                                     </div>
                                     <div className="">
-                                        <p className='d-inline pr-5 mr-5'> <MdAccessTime /> <span className='time'>Due Aug 8</span> </p>
+                                        <p className='d-inline pr-5 mr-5'> <MdAccessTime /> <span className='time vtn'>Due Aug 8</span> </p>
                                         <img src={Group} alt="group" className='img-fluid' />
                                     </div>
                                 </div>
@@ -46,7 +46,7 @@ export default class Test extends Component {
                                         <FiMoreHorizontal className='' style={{ fontSize: '25px' }} />
                                     </div>
                                     <div className="">
-                                        <p className='d-inline pr-5 mr-5'> <MdAccessTime /> <span className='time'>Due Aug 8</span> </p>
+                                        <p className='d-inline pr-5 mr-5'> <MdAccessTime /> <span className='time vtn'>Due Aug 8</span> </p>
                                         <img src={Group} alt="group" className='img-fluid' />
                                     </div>
                                 </div>
@@ -59,7 +59,7 @@ export default class Test extends Component {
                                         <FiMoreHorizontal className='' style={{ fontSize: '25px' }} />
                                     </div>
                                     <div className="">
-                                        <p className='d-inline pr-5 mr-5'> <MdAccessTime /> <span className='time'>Due Aug 8</span> </p>
+                                        <p className='d-inline pr-5 mr-5'> <MdAccessTime /> <span className='time vtn'>Due Aug 8</span> </p>
                                         <img src={Group} alt="group" className='img-fluid' />
                                     </div>
                                 </div>
