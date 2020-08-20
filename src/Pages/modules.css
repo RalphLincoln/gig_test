@@ -1,0 +1,25 @@
+.bot {
+    background-color: #FFFFFF !important;
+    color: #23B3E8 !important;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.heady {
+    font-size: 14px;
+    color: #03293D !important;
+}
+
+.info {
+    font-size: 10px;
+    color: #03293D;
+}
+
+.time {
+    font-size: 10px;
+}
+
+@media only screen and (max-width: 768px) {
+    .small-move {
+        padding-top: 26px;
+    }
+}

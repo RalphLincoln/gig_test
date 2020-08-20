@@ -1,0 +1,35 @@
+.nav2 {
+    border-bottom: 1px solid #7D909A;
+}
+
+.main-nav {
+    background: #F7F7F7;
+}
+
+.links {
+    font-size: 14px;
+    color: #7D909A;
+}
+
+.links:hover {
+    color: #F16C4A !important;
+}
+
+.task {
+    color: #23B3E8 !important;
+    font-size: 14px;
+}
+
+.modules {
+    color: #F15832 !important;
+    font-size: 14px;
+}
+
+.text {
+    color: #4DBD98 !important;
+    font-size: 14px;
+}
+
+.tog-color {
+    color: #F15832 !important;
+}
