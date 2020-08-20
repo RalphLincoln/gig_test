@@ -130,7 +130,7 @@ export default class Test extends Component {
                                                                 <p className='p-num'>20</p>
                                                             </div>
 
-                                                            <p className='heady text-white font-weight-bold'>Total Modules</p>
+                                                            <p className='heady1 text-white font-weight-bold'>Total Modules</p>
                                                         </div>
                                                     </div>
 
@@ -141,7 +141,7 @@ export default class Test extends Component {
                                                                 <p className='p-num'>20</p>
                                                             </div>
 
-                                                            <p className='heady text-white font-weight-bold'>Improvement</p>
+                                                            <p className='heady1 text-white font-weight-bold'>Improvement</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -154,7 +154,7 @@ export default class Test extends Component {
                                                                 <p className='p-num'>14</p>
                                                             </div>
 
-                                                            <p className='heady text-white font-weight-bold'>Total <br /> Modules test</p>
+                                                            <p className='heady1 text-white font-weight-bold'>Total Test</p>
                                                         </div>
                                                     </div>
 
@@ -165,7 +165,7 @@ export default class Test extends Component {
                                                                 <p className='p-num'>20</p>
                                                             </div>
 
-                                                            <p className='heady text-white font-weight-bold'>Total Failed</p>
+                                                            <p className='heady1 text-white font-weight-bold'>Total Failed</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -178,7 +178,7 @@ export default class Test extends Component {
                                                                 <p className='p-num'>20</p>
                                                             </div>
 
-                                                            <p className='heady text-white font-weight-bold'> Total Passed</p>
+                                                            <p className='heady1 text-white font-weight-bold'> Total Passed</p>
                                                         </div>
                                                     </div>
 
@@ -191,7 +191,7 @@ export default class Test extends Component {
                                                                 <p className='p-num'>20</p>
                                                             </div>
 
-                                                            <p className='heady text-white font-weight-bold'>Total Untested</p>
+                                                            <p className='heady1 text-white font-weight-bold'>Total Untested</p>
                                                         </div>
                                                     </div>
                                                 </div>
